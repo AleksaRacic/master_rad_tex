@@ -1,0 +1,26 @@
+\babel@toc {serbianc}{}\relax 
+\thispagestyle {empty}
+\contentsline {chapter}{\numberline {1}Увод}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Значај финансијских текстуалних података}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}НЛП и велики језички модели мењају анализу финансија}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Улога 10-K извештаја као кључних финансијских докумената}{3}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Циљ рада}{4}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Архитектура великих језичких модела}{5}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Неуронске мреже}{5}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Неурон}{5}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Потпуно повезане неуронске мреже}{6}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Софтмакс (\textit {softmax})}{7}{subsection.2.1.3}%
+\contentsline {section}{\numberline {2.2}Архитектура трансформера}{7}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Токенизација}{7}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Векторска репрезентација токена}{8}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Механизам пажње}{8}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Скалирана пажња заснована на скаларном производу}{9}{subsection.2.2.4}%
+\contentsline {subsection}{\numberline {2.2.5}Механизам пажње са више глава}{10}{subsection.2.2.5}%
+\contentsline {subsection}{\numberline {2.2.6}Трансформер}{11}{subsection.2.2.6}%
+\contentsline {section}{\numberline {2.3}Архитектура великог језичког модела}{12}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Врсте великих језичких модела}{13}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Ограничења великих језичких модела}{13}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}Контекст у великим језичким моделима}{14}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Манипулисање контекстом путем изградње упита}{14}{subsection.2.4.1}%
+\contentsline {paragraph}{Технике манипулисања контекстом укључују:}{14}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Генерисање са допунским преузимањем}{15}{subsection.2.4.2}%

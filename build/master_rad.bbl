@@ -1,0 +1,95 @@
+\begin{thebibliography}{10}
+
+\bibitem{rocha_discovering_2021}
+K.~Rocha {\em et~al.}, ``Discovering the sentiment in finance's unstructured
+  data,'' 2021.
+
+\bibitem{paro_ai_strategic_2023}
+{Paro AI}, ``The strategic benefits of {NLP} in finance,'' 2023.
+
+\bibitem{yang_evaluating_2025}
+Z.~Yang {\em et~al.}, ``Evaluating {LLMs} in financial {NLP}: A comparative
+  study on financial report analysis,'' 2025.
+
+\bibitem{noauthor_artificial_20233}
+``Artificial neuron,'' Aug. 2023.
+\newblock Page Version ID: 1170144985.
+
+\bibitem{ioannou_structural_2017}
+Y.~Ioannou, {\em Structural {Priors} in {Deep} {Neural} {Networks}}.
+\newblock PhD thesis, Sept. 2017.
+
+\bibitem{anwar_learned_2017}
+I.~Anwar and N.~Ul~Islam, ``Learned {Features} are {Better} for {Ethnicity}
+  {Classification},'' {\em Cybernetics and Information Technologies}, vol.~17,
+  Sept. 2017.
+
+\bibitem{noauthor_artificial_2023}
+``Artificial neural network,'' Sept. 2023.
+\newblock Page Version ID: 1175471829.
+
+\bibitem{gage_new_1994}
+P.~Gage, ``A new algorithm for data compression,'' {\em C Users Journal},
+  vol.~12, no.~2, pp.~24--35, 1994.
+
+\bibitem{sennrich_neural_2016}
+R.~Sennrich, B.~Haddow, and A.~Birch, ``Neural machine translation of rare
+  words with subword units,'' in {\em Proceedings of the 54th Annual Meeting of
+  the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pp.~1715--1725, Association for Computational Linguistics, 2016.
+
+\bibitem{vaswani_attention_2017}
+A.~Vaswani, N.~Shazeer, N.~Parmar, J.~Uszkoreit, L.~Jones, A.~N. Gomez,
+  L.~Kaiser, and I.~Polosukhin, ``Attention is all you need,'' in {\em Advances
+  in Neural Information Processing Systems 30}, pp.~5998--6008, Curran
+  Associates, Inc., 2017.
+
+\bibitem{bahdanau_neural_2015}
+D.~Bahdanau, K.~Cho, and Y.~Bengio, ``Neural machine translation by jointly
+  learning to align and translate,'' {\em arXiv preprint arXiv:1409.0473},
+  2015.
+
+\bibitem{brown_language_2020}
+T.~B. Brown, B.~Mann, N.~Ryder, M.~Subbiah, J.~Kaplan, P.~Dhariwal,
+  A.~Neelakantan, P.~Shyam, G.~Sastry, A.~Askell, S.~Agarwal, A.~Herbert-Voss,
+  G.~Krueger, T.~Henighan, R.~Child, A.~Ramesh, D.~M. Ziegler, J.~Wu,
+  C.~Winter, C.~Hesse, M.~Chen, E.~Sigler, M.~Litwin, S.~Gray, B.~Chess,
+  J.~Clark, C.~Berner, S.~McCandlish, A.~Radford, I.~Sutskever, and D.~Amodei,
+  ``Language models are few-shot learners,'' in {\em Advances in Neural
+  Information Processing Systems 33}, pp.~1877--1901, Curran Associates, Inc.,
+  2020.
+
+\bibitem{lu_large_2024}
+Z.~Lu, ``Large language models: Development in model scale and challenges,''
+  {\em Applied and Computational Engineering}, vol.~114, pp.~154--161, 2024.
+
+\bibitem{martineau_whats_2024}
+K.~Martineau, ``What's an {LLM} context window and why is it getting larger?,''
+  2024.
+
+\bibitem{liu_lost_2023}
+N.~F. Liu, K.~Lin, J.~Hewitt, A.~Paranjape, M.~Bevilacqua, F.~Petroni, and
+  P.~Liang, ``Lost in the middle: How language models use long contexts,''
+  2023.
+
+\bibitem{sahoo_systematic_2025}
+P.~Sahoo, A.~K. Singh, S.~Saha, V.~Jain, S.~Mondal, and A.~Chadha, ``A
+  systematic survey of prompt engineering in large language models: Techniques
+  and applications,'' 2025.
+
+\bibitem{lewis_retrieval_2020}
+P.~Lewis, E.~Perez, A.~Piktus, F.~Petroni, V.~Karpukhin, N.~Goyal,
+  H.~K{\"{u}}ttler, M.~Lewis, W.-t. Yih, T.~Rockt{\"{a}}schel, S.~Riedel, and
+  D.~Kiela, ``Retrieval-augmented generation for knowledge-intensive {NLP}
+  tasks,'' in {\em Advances in Neural Information Processing Systems 33},
+  pp.~9459--9474, Curran Associates, Inc., 2020.
+
+\bibitem{yang_dual_2025}
+Q.~Yang {\em et~al.}, ``Dual retrieving and ranking medical {LLM} with
+  retrieval augmented generation,'' {\em Scientific Reports}, vol.~15,
+  p.~18062, 2025.
+
+\bibitem{kim_large_2024}
+M.~Kim, ``Large context windows versus {RAG},'' 2024.
+
+\end{thebibliography}
