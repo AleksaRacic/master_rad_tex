@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.7)  15 SEP 2025 00:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.9.7)  19 SEP 2025 23:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1163,7 +1163,26 @@ Document Style algorithmicx 1.2 - a greatly improved `algorithmic' style
 \ALG@tmplength=\skip79
 )
 Document Style - pseudocode environments for use with the `algorithmicx' style
-) (/usr/local/texlive/2023/texmf-dist/tex/latex/tools/array.sty
+) (/usr/local/texlive/2023/texmf-dist/tex/latex/capt-of/capt-of.sty
+Package: capt-of 2009/12/29 v0.2 standard captions outside of floats
+)
+(/usr/local/texlive/2023/texmf-dist/tex/latex/newfloat/newfloat.sty
+Package: newfloat 2019/09/02 v1.1l Defining new floating environments (AR)
+Package newfloat Info: Unsupported document class, or \@chapter 
+(newfloat)             was already redefined by another package.
+Package newfloat Info: \@chapter = macro:[#1]#2->\algocf@original@chapter [#1]{
+#2}\addtocontents {loa}{\protect \addvspace {10\p@ }}.
+Package newfloat Info: \Hy@org@chapter = macro:[#1]#2->\NR@gettitle {#1}\NR@cha
+pter [{#1}]{#2}.
+Package newfloat Info: `rotating' package detected.
+Package newfloat Info: `wrapfig' package detected.
+)
+Package newfloat Info: New float `listing' with options `fileext=lol,placement=
+{!ht},name=Р›РёСЃС‚РёРЅРі' on input line 19.
+\c@listing=\count340
+Package newfloat Info: float type `listing'=1 on input line 19.
+
+(/usr/local/texlive/2023/texmf-dist/tex/latex/tools/array.sty
 Package: array 2022/09/04 v2.5g Tabular extension package (FMi)
 \col@sep=\dimen298
 \ar@mcellbox=\box105
@@ -1190,16 +1209,16 @@ Package: threeparttable 2003/06/13  v 3.0
 \@tempboxb=\box108
 )
 LaTeX Font Info:    Trying to load font information for T1+gentium on input lin
-e 40.
+e 48.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/gentium-tug/t1gentium.fd
 File: t1gentium.fd 2022/05/30 Font definitions for gentium.
 )
 LaTeX Font Info:    Font shape `T1/gentium/m/n' will be
-(Font)              scaled to size 12.0pt on input line 40.
+(Font)              scaled to size 12.0pt on input line 48.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count340
+\l__color_backend_stack_int=\count341
 \l__pdf_internal_box=\box109
 )
 
@@ -1222,44 +1241,44 @@ LaTeX Warning: Label `sec:4' multiply defined.
 )
 \openout1 = `master_rad.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 40.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 48.
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 4
-0.
+8.
  (/usr/local/texlive/2023/texmf-dist/tex/latex/cyrillic/t2acmr.fd
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 40.
-LaTeX Font Info:    ... okay on input line 40.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 48.
+LaTeX Font Info:    ... okay on input line 48.
 
 (/usr/local/texlive/2023/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count341
+\scratchcounter=\count342
 \scratchdimen=\dimen305
 \scratchbox=\box110
-\nofMPsegments=\count342
-\nofMParguments=\count343
+\nofMPsegments=\count343
+\nofMParguments=\count344
 \everyMPshowfont=\toks53
-\MPscratchCnt=\count344
+\MPscratchCnt=\count345
 \MPscratchDim=\dimen306
-\MPnumerator=\count345
-\makeMPintoPDFobject=\count346
+\MPnumerator=\count346
+\makeMPintoPDFobject=\count347
 \everyMPtoPDFconversion=\toks54
 ) (/usr/local/texlive/2023/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1278,7 +1297,7 @@ G,.JBIG2,.JB2,.eps]
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-Package hyperref Info: Link coloring OFF on input line 40.
+Package hyperref Info: Link coloring OFF on input line 48.
 
 (build/master_rad.out) (build/master_rad.out)
 \@outlinefile=\write4
@@ -1323,17 +1342,19 @@ Package hyperref Info: Link coloring OFF on input line 40.
 Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
 ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
 your preamble.
- on input line 40.
+ on input line 48.
 
+Package newfloat Info: Trying Plan B...
+Package newfloat Info: `float' package detected.
 LaTeX Font Info:    Trying to load font information for T2A+cmss on input line 
-42.
+50.
 (/usr/local/texlive/2023/texmf-dist/tex/latex/cyrillic/t2acmss.fd
 File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-<LogoETF.png, id=99, 147.55125pt x 189.70876pt>
+<LogoETF.png, id=195, 147.55125pt x 189.70876pt>
 File: LogoETF.png Graphic file (type png)
 <use LogoETF.png>
-Package pdftex.def Info: LogoETF.png  used on input line 42.
+Package pdftex.def Info: LogoETF.png  used on input line 50.
 (pdftex.def)             Requested size: 88.53142pt x 113.82613pt.
  [1
 
@@ -1344,12 +1365,12 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.44 \tableofcontents
+l.52 \tableofcontents
                       [1]
 LaTeX Font Info:    Font shape `T2A/gentium/b/n' will be
-(Font)              scaled to size 12.0pt on input line 44.
+(Font)              scaled to size 12.0pt on input line 52.
 LaTeX Font Info:    Font shape `T2A/gentium/b/n' will be
-(Font)              scaled to size 24.88pt on input line 44.
+(Font)              scaled to size 24.88pt on input line 52.
  (build/master_rad.toc
 LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
 
@@ -1369,7 +1390,10 @@ File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
 LaTeX Font Info:    Font shape `T2A/gentium/m/it' will be
 (Font)              scaled to size 12.0pt on input line 12.
-)
+ [2
+
+{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/gentium-tug/gentium-t2a.enc
+}])
 \tf@toc=\write5
 \openout5 = `master_rad.toc'.
 
@@ -1378,34 +1402,39 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.49 \newpage
-              [1
-
-{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/gentium-tug/gentium-t2a.enc
-}]
+l.57 \newpage
+              [1] (./chapters/chapter1.tex
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 1.
+Package newfloat Info: Setting Plan B file extension to `lof'... on input line 
+1.
 LaTeX Font Info:    Font shape `T2A/gentium/m/n' will be
-(Font)              scaled to size 17.28pt on input line 54.
+(Font)              scaled to size 17.28pt on input line 4.
 LaTeX Font Info:    Font shape `T2A/gentium/b/n' will be
-(Font)              scaled to size 17.28pt on input line 54.
-[2
+(Font)              scaled to size 17.28pt on input line 4.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.21 
+      [2
 
 ] [3]
-Overfull \hbox (2.71727pt too wide) in paragraph at lines 90--91
+Overfull \hbox (2.71727pt too wide) in paragraph at lines 40--41
 []\T2A/gentium/m/n/12 Ипак, 10-K из-ве-шта-jи су озло-гла-ше-но обим-ни и сло-ж
 е-ни, че-сто има-jу-Ји сто-ти-не стра-
  []
 
-[4]
+) (./chapters/chapter2.tex [4]
 {\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 2.
 LaTeX Font Info:    Font shape `T2A/gentium/m/n' will be
-(Font)              scaled to size 14.4pt on input line 102.
+(Font)              scaled to size 14.4pt on input line 7.
 LaTeX Font Info:    Font shape `T2A/gentium/b/n' will be
-(Font)              scaled to size 14.4pt on input line 102.
-<images/neuron.png, id=165, 656.4525pt x 473.77pt>
+(Font)              scaled to size 14.4pt on input line 7.
+<images/neuron.png, id=290, 656.4525pt x 473.77pt>
 File: images/neuron.png Graphic file (type png)
 <use images/neuron.png>
-Package pdftex.def Info: images/neuron.png  used on input line 122.
+Package pdftex.def Info: images/neuron.png  used on input line 27.
 (pdftex.def)             Requested size: 318.66948pt x 229.98782pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
@@ -1413,193 +1442,1812 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 [5
 
 ]
-<images/fc.png, id=184, 853.1875pt x 551.05875pt>
+<images/fc.png, id=307, 853.1875pt x 551.05875pt>
 File: images/fc.png Graphic file (type png)
 <use images/fc.png>
-Package pdftex.def Info: images/fc.png  used on input line 146.
+Package pdftex.def Info: images/fc.png  used on input line 51.
 (pdftex.def)             Requested size: 318.66948pt x 205.82248pt.
  [6 <./images/neuron.png> <./images/fc.png>]
 LaTeX Font Info:    Font shape `T2A/gentium/b/it' will be
-(Font)              scaled to size 14.4pt on input line 154.
+(Font)              scaled to size 14.4pt on input line 59.
 LaTeX Font Info:    Font shape `T2A/gentium/m/n' will be
-(Font)              scaled to size 8.0pt on input line 162.
+(Font)              scaled to size 8.0pt on input line 67.
 LaTeX Font Info:    Font shape `T2A/gentium/m/n' will be
-(Font)              scaled to size 6.0pt on input line 162.
+(Font)              scaled to size 6.0pt on input line 67.
 LaTeX Font Info:    Trying to load font information for TS1+gentium on input li
-ne 168.
+ne 73.
 
 (/usr/local/texlive/2023/texmf-dist/tex/latex/gentium-tug/ts1gentium.fd
 File: ts1gentium.fd 2022/05/30 Font definitions for gentium.
 )
 LaTeX Font Info:    Font shape `TS1/gentium/m/n' will be
-(Font)              scaled to size 12.0pt on input line 168.
+(Font)              scaled to size 12.0pt on input line 73.
 
 [7{/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/gentium-tug/gentium-ts1.e
 nc}] [8]
-<images/dot-attention.png, id=231, 408.52625pt x 341.275pt>
+<images/dot-attention.png, id=355, 408.52625pt x 341.275pt>
 File: images/dot-attention.png Graphic file (type png)
 <use images/dot-attention.png>
-Package pdftex.def Info: images/dot-attention.png  used on input line 214.
+Package pdftex.def Info: images/dot-attention.png  used on input line 119.
 (pdftex.def)             Requested size: 318.66948pt x 266.22466pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [9] [10 <./images/dot-attention.png>]
-<images/multi-head-attention.png, id=250, 395.4775pt x 384.43625pt>
+<images/multi-head-attention.png, id=375, 395.4775pt x 384.43625pt>
 File: images/multi-head-attention.png Graphic file (type png)
 <use images/multi-head-attention.png>
-Package pdftex.def Info: images/multi-head-attention.png  used on input line 23
-2.
+Package pdftex.def Info: images/multi-head-attention.png  used on input line 13
+7.
 (pdftex.def)             Requested size: 318.66948pt x 309.77849pt.
 
-Overfull \hbox (19.44437pt too wide) in paragraph at lines 246--247
+Overfull \hbox (19.44437pt too wide) in paragraph at lines 151--152
 []\T2A/gentium/m/n/12 оба под-сле-jа су оба-ви-jе-на ре-зи-ду-ал-ним (ЅAdd") ве
 -за-ма и нор-ма-ли-за-ци-jом сло-jа (ЅNorm").
  []
 
 [11 <./images/multi-head-attention.png>]
-<images/transformer.png, id=261, 974.64125pt x 786.94pt>
+<images/transformer.png, id=385, 974.64125pt x 786.94pt>
 File: images/transformer.png Graphic file (type png)
 <use images/transformer.png>
-Package pdftex.def Info: images/transformer.png  used on input line 260.
+Package pdftex.def Info: images/transformer.png  used on input line 165.
 (pdftex.def)             Requested size: 409.71692pt x 330.81274pt.
  [12 <./images/transformer.png>]
-Overfull \hbox (13.07372pt too wide) in paragraph at lines 272--273
-\T2A/gentium/m/n/12 па-ра-ме-та-ра ра-спо-ре-ўе-них пре-ко мно-гих сло-jе-ва. Н
-а при-мер, мо-дел GPT-3 ком-па-nije OpenAI
- []
-
-
-Overfull \hbox (2.10905pt too wide) in paragraph at lines 278--279
+Overfull \hbox (2.10905pt too wide) in paragraph at lines 183--184
 []\T2A/gentium/b/n/12 само-енкодерски мо-де-ли \T2A/gentium/m/n/12 (по-пут BERT
 -а) на-ме-»е-ни за-да-ци-ма ра-зу-ме-ва-»а и ана-
  []
 
+[13] [14]) (./chapters/chapter3.tex [15] [16]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 3.
 
-LaTeX Warning: Citation `martineau_whats_2024' on page 13 undefined on input li
-ne 295.
+Overfull \hbox (5.29031pt too wide) in paragraph at lines 6--7
+[]\T2A/gentium/m/n/12 Програм елек-трон-ског при-ку-п§а-»а, ана-ли-зе и по-вла-
+че-»а (енг. \T2A/gentium/m/it/12 Electronic Data Gathering,
+ []
 
+LaTeX Font Info:    Font shape `T2A/gentium/b/it' will be
+(Font)              scaled to size 12.0pt on input line 13.
+[17
 
-LaTeX Warning: Citation `martineau_whats_2024' on page 13 undefined on input li
-ne 295.
-
-
-LaTeX Warning: Citation `martineau_whats_2024' on page 13 undefined on input li
-ne 295.
-
-
-LaTeX Warning: Citation `liu_lost_2023' on page 13 undefined on input line 295.
-
-
-
-LaTeX Warning: Citation `liu_lost_2023' on page 13 undefined on input line 295.
-
-
-
-LaTeX Warning: Citation `liu_lost_2023' on page 13 undefined on input line 295.
+]
+Overfull \hbox (23.93167pt too wide) in paragraph at lines 31--32
+[]\T2A/gentium/b/n/12 Ставка 1. По-сло-ва-»е (енг. \T2A/gentium/b/it/12 Item 1.
+ Business\T2A/gentium/b/n/12 ): \T2A/gentium/m/n/12 опис опе-ра-ци-jа, глав-ни 
+про-и-зво-ди/услуге,
+ []
 
 
-[13]
-
-LaTeX Warning: Citation `sahoo_systematic_2025' on page 14 undefined on input l
-ine 299.
-
-
-LaTeX Warning: Citation `sahoo_systematic_2025' on page 14 undefined on input l
-ine 299.
+Overfull \hbox (4.01016pt too wide) in paragraph at lines 35--36
+[]\T2A/gentium/b/n/12 Ставка 1Б. Не-ре-ше-ни ко-мен-та-ри осо-б§а (енг. \T2A/ge
+ntium/b/it/12 Item 1B. Unresolved Staff Comments\T2A/gentium/b/n/12 ):
+ []
 
 
-LaTeX Warning: Citation `sahoo_systematic_2025' on page 14 undefined on input l
-ine 304.
+Overfull \hbox (52.0467pt too wide) in paragraph at lines 39--40
+[]\T2A/gentium/b/n/12 Ставка 3. Суд-ски спо-ро-ви (енг. \T2A/gentium/b/it/12 It
+em 3. Legal Proceedings\T2A/gentium/b/n/12 ): \T2A/gentium/m/n/12 не-ру-тин-ске
+ пар-ни-це/регулаторни
+ []
+
+[18]
+Overfull \hbox (2.95438pt too wide) in paragraph at lines 53--54
+\T2A/gentium/b/it/12 About Market Risk\T2A/gentium/b/n/12 ): \T2A/gentium/m/n/1
+2 изло-же-но-сти (ка-мат-ни, де-ви-зни, роб-ни, це-на ка-пи-та-ла) и упра-
+ []
 
 
-LaTeX Warning: Citation `sahoo_systematic_2025' on page 14 undefined on input l
-ine 305.
-
-[14]
-
-LaTeX Warning: Citation `sahoo_systematic_2025' on page 15 undefined on input l
-ine 306.
+Overfull \hbox (12.4322pt too wide) in paragraph at lines 69--70
+[]\T2A/gentium/b/n/12 Ставка 11. Нак-на-де из-вр-шних ру-ко-во-ди-ла-ца (енг. \
+T2A/gentium/b/it/12 Item 11. Executive Compensation\T2A/gentium/b/n/12 ):
+ []
 
 
-LaTeX Warning: Citation `sahoo_systematic_2025' on page 15 undefined on input l
-ine 307.
+Overfull \hbox (34.05621pt too wide) in paragraph at lines 73--74
+[]\T2A/gentium/b/n/12 Ставка 13. По-ве-за-на ли-ца и не-за-ви-сност ди-рек-то-р
+а (енг. \T2A/gentium/b/it/12 Item 13. Certain Relationships\T2A/gentium/b/n/12 
+):
+ []
 
 
-LaTeX Warning: Citation `sahoo_systematic_2025' on page 15 undefined on input l
-ine 310.
+Overfull \hbox (10.5242pt too wide) in paragraph at lines 75--76
+[]\T2A/gentium/b/n/12 Ставка 14. Нак-на-де и услу-ге глав-ног ра-чу-но-во-ўе (е
+нг. \T2A/gentium/b/it/12 Item 14. Principal Accountant
+ []
 
 
-LaTeX Warning: Citation `lewis_retrieval_2020' on page 15 undefined on input li
-ne 314.
+Overfull \hbox (3.68542pt too wide) in paragraph at lines 81--82
+\T2A/gentium/b/it/12 Statement Schedules\T2A/gentium/b/n/12 ): \T2A/gentium/m/n
+/12 спи-сак свих при-ло-га/распореда (осни-вач-ки ак-ти, ста-тут, зна-
+ []
+
+[19]
+Underfull \hbox (badness 10000) in paragraph at lines 96--96
+[]|\T2A/gentium/m/n/12 Укупно па-ро-ва П-О
+ []
 
 
-LaTeX Warning: Citation `lewis_retrieval_2020' on page 15 undefined on input li
-ne 314.
+Underfull \hbox (badness 10000) in paragraph at lines 102--102
+[]|\T2A/gentium/m/n/12 Подскуп отво-ре-ног
+ []
 
 
-LaTeX Warning: Citation `lewis_retrieval_2020' on page 15 undefined on input li
-ne 314.
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[20]) (./chapters/chapter4.tex [21]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 4.
+
+Overfull \hbox (13.79669pt too wide) in paragraph at lines 6--7
+[]\T2A/gentium/m/n/12 У окви-ру ра-зво-jа аген-та за-сно-ва-ног на ве-ли-ким jе
+-зич-ким мо-де-ли-ма (енг. Large Language
+ []
+
+LaTeX Font Info:    Font shape `T2A/gentium/m/n' will be
+(Font)              scaled to size 10.0pt on input line 12.
+LaTeX Font Info:    Font shape `T2A/gentium/b/n' will be
+(Font)              scaled to size 10.0pt on input line 16.
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--18
+[]|\T2A/gentium/m/n/10 Комерциjални API
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.18 ...РјРµСЂС†РёСР°Р»РЅРё API (OpenAI) & \$\sim
+                                                  {}0.03 СѓР»Р°Р·, \$\sim{}0...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
 
 
-LaTeX Warning: Citation `lewis_retrieval_2020' on page 15 undefined on input li
-ne 314.
+LaTeX Warning: Command \cyru invalid in math mode on input line 18.
 
 
-LaTeX Warning: Citation `lewis_retrieval_2020' on page 15 undefined on input li
-ne 316.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 18.
 
 
-LaTeX Warning: Citation `yang_dual_2025' on page 15 undefined on input line 316
-.
+LaTeX Warning: Command \cyra invalid in math mode on input line 18.
 
 
-LaTeX Warning: Citation `lewis_retrieval_2020' on page 15 undefined on input li
-ne 316.
+LaTeX Warning: Command \cyrz invalid in math mode on input line 18.
 
 
-LaTeX Warning: Citation `kim_large_2024' on page 15 undefined on input line 318
-.
+LaTeX Warning: Command \cyri invalid in math mode on input line 18.
 
 
-LaTeX Warning: Citation `kim_large_2024' on page 15 undefined on input line 318
-.
+LaTeX Warning: Command \cyrz invalid in math mode on input line 18.
 
 
-LaTeX Warning: Citation `liu_lost_2023' on page 15 undefined on input line 318.
+LaTeX Warning: Command \cyrl invalid in math mode on input line 18.
 
 
+LaTeX Warning: Command \cyra invalid in math mode on input line 18.
 
-LaTeX Warning: Citation `kim_large_2024' on page 15 undefined on input line 318
-.
 
-[15] (build/master_rad.bbl [16]
+LaTeX Warning: Command \cyrz invalid in math mode on input line 18.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.18 ...{}0.03 СѓР»Р°Р·, \$\sim{}0.06 РёР·Р»Р°Р· &
+                                                   Р”Р° -- РЅР°С‚РёРІРЅРѕ Рї...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no у in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no з in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no з in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no з in font cmr10!
+LaTeX Font Info:    Font shape `T2A/gentium/m/n' will be
+(Font)              scaled to size 7.0pt on input line 18.
+
+Underfull \hbox (badness 6220) in paragraph at lines 18--19
+[]|\T2A/gentium/m/n/10 Да -- на-тив-но по-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+\T2A/gentium/m/n/10 зи-ва-»е функ-ци-jа
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--20
+[]|\T2A/gentium/m/n/10 Комерциjални API
+ []
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.20 ...µСЂС†РёСР°Р»РЅРё API (Anthropic) & \$\sim
+                                                  {}0.011 СѓР»Р°Р·, \$\sim{}...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 20.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 20.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 20.
+
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 20.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 20.
+
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 20.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 20.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 20.
+
+
+LaTeX Warning: Command \cyrz invalid in math mode on input line 20.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.20 ...0.011 СѓР»Р°Р·, \$\sim{}0.033 РёР·Р»Р°Р· &
+                                                   Р”РµР»РёРјРёС‡РЅРѕ -- РїС...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no у in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no з in font cmr10!
+Missing character: There is no и in font cmr10!
+Missing character: There is no з in font cmr10!
+Missing character: There is no л in font cmr10!
+Missing character: There is no а in font cmr10!
+Missing character: There is no з in font cmr10!
+
+Underfull \hbox (badness 2903) in paragraph at lines 20--21
+[]|\T2A/gentium/m/n/10 Делимично -- пре-
+ []
+
+
+Underfull \hbox (badness 1168) in paragraph at lines 22--22
+[]|\T2A/gentium/m/n/10 Отворен код (са-мо-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 22--22
+[]|\T2A/gentium/m/n/10 Н/П (тро-шак хар-
+ []
+
+
+Underfull \hbox (badness 7649) in paragraph at lines 22--22
+\T2A/gentium/m/n/10 две-ра; $\OMS/cmsy/m/n/10 ^^X$\T2A/gentium/m/n/10 95% ма-»е
+
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 22--23
+[]|\T2A/gentium/m/n/10 Не -- кроз спо§-ну
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]|$\OMS/cmsy/m/n/10 ^^X$\T2A/gentium/m/n/10 4k то-ке-на
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 24--24
+[]|\T2A/gentium/m/n/10 Бесплатно (ра-чу-
+ []
+
+
+Underfull \hbox (badness 3240) in paragraph at lines 24--25
+[]|\T2A/gentium/m/n/10 Не -- кроз спо§-ну
+ []
+
+
+LaTeX Warning: Citation `openai_function_calling_2023' on page 22 undefined on 
+input line 28.
+
+
+Overfull \hbox (111.78899pt too wide) in paragraph at lines 14--31
+ [] 
+ []
+
+
+LaTeX Warning: Citation `cheung_llama2_vs_gpt4_2023' on page 22 undefined on in
+put line 35.
+
+
+LaTeX Warning: Citation `anthropic_best_practices_2025' on page 22 undefined on
+ input line 35.
+
+
+LaTeX Warning: Citation `kramer_deepseek_2025' on page 22 undefined on input li
+ne 35.
+
+[22
+
+]
+
+LaTeX Warning: Citation `openai_function_calling_2023' on page 23 undefined on 
+input line 37.
+
+
+LaTeX Warning: Citation `ibm_what_is_langchain_2023' on page 23 undefined on in
+put line 46.
+
+
+LaTeX Warning: Citation `patriwala_langchain_2025' on page 23 undefined on inpu
+t line 46.
+
+[23]
+
+LaTeX Warning: Citation `patriwala_langchain_2025' on page 24 undefined on inpu
+t line 47.
+
+
+LaTeX Warning: Citation `patriwala_langchain_2025' on page 24 undefined on inpu
+t line 48.
+
+
+LaTeX Warning: Citation `ibm_what_is_langchain_2023' on page 24 undefined on in
+put line 52.
+
+
+LaTeX Warning: Citation `patriwala_langchain_2025' on page 24 undefined on inpu
+t line 52.
+
+
+LaTeX Warning: Citation `patriwala_langchain_2025' on page 24 undefined on inpu
+t line 56.
+
+
+LaTeX Warning: Citation `ibm_what_is_langchain_2023' on page 24 undefined on in
+put line 57.
+
+
+LaTeX Warning: Citation `patriwala_langchain_2025' on page 24 undefined on inpu
+t line 57.
+
+
+LaTeX Warning: Citation `patriwala_langchain_2025' on page 24 undefined on inpu
+t line 58.
+
+
+LaTeX Warning: Citation `patriwala_langchain_2025' on page 24 undefined on inpu
+t line 59.
+
+
+LaTeX Warning: Citation `ibm_what_is_langchain_2023' on page 24 undefined on in
+put line 60.
+
+
+LaTeX Warning: Citation `patriwala_langchain_2025' on page 24 undefined on inpu
+t line 60.
+
+[24]
+
+LaTeX Warning: Citation `ibm_what_is_langchain_2023' on page 25 undefined on in
+put line 61.
+
+
+LaTeX Warning: Citation `patriwala_langchain_2025' on page 25 undefined on inpu
+t line 61.
+
+
+Overfull \hbox (0.1206pt too wide) in paragraph at lines 61--62
+[]\T2A/gentium/b/n/12 Заjедница и до-ку-мен-та-ци-jа: \T2A/gentium/m/n/12 Бо-га
+-та до-ку-мен-та-ци-jа и ак-тив-на за-jед-ни-ца, са мно-
+ []
+
+
+LaTeX Warning: Citation `langchain_docs_2024' on page 25 undefined on input lin
+e 68.
+
+
+Overfull \hbox (1.27164pt too wide) in paragraph at lines 68--69
+\T2A/gentium/m/n/12 не ком-по-нен-те ове би-бли-о-те-ке ко-jе су ре-ле-вант-не 
+за из-град-»у на-шег фи-нан-сиj-ског аген-
+ []
+
+
+LaTeX Warning: Citation `langchain_docs_2024' on page 25 undefined on input lin
+e 72.
+
+
+LaTeX Warning: Citation `langchain_docs_2024' on page 25 undefined on input lin
+e 72.
+
+
+! LaTeX Error: Environment lstlisting undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.76 \begin{lstlisting}
+                       [language=Python, caption={РџСЂРёРјРµСЂ РєСЂРµРёСЂР°С...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.78 from langchain.chat_
+                         models import ChatOpenAI
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.79 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (11.76514pt too wide) in paragraph at lines 76--79
+[]\T2A/gentium/m/n/12 [language=Python, caption=Пример кре-и-ра-»а лан-ца са pr
+ompt ша-бло-ном] from langchain
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.80 #
+       1. Р”РµС„РёРЅРёС€РµРјРѕ prompt С€Р°Р±Р»РѕРЅ СЃР° РїСЂРѕРјРµРЅС™РёРІРѕ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.83     input_
+               variables=["text"]
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.85 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (69.0095pt too wide) in paragraph at lines 80--85
+[]\T2A/gentium/m/n/12 1. Де-фи-ни-ше-мо prompt ша-блон са про-мен-§и-вом text p
+rompt = PromptTemplate( template="Преведи
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.86 #
+       2. РРЅРёС†РёСР°Р»РёР·СѓСРµРјРѕ LLM РјРѕРґРµР» (РЅРїСЂ. OpenAI Chat...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.87 llm = ChatOpenAI(model_
+                            name="gpt-3.5-turbo", temperature=0)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.88 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (30.33716pt too wide) in paragraph at lines 86--88
+[]\T2A/gentium/m/n/12 2. Ини-ци-jа-ли-зу-jе-мо LLM мо-дел (нпр. OpenAI ChatGPT 
+мо-дел) llm = ChatOpenAI(model$[]\OML/cmm/m/it/12 ame \OT1/cmr/m/n/12 =
+ []
+
+[25]
+! You can't use `macro parameter character #' in vertical mode.
+l.89 #
+       3. РљСЂРµРёСЂР°РјРѕ Р»Р°РЅР°С† РєРѕСРё РїРѕРІРµР·СѓСРµ РјРѕРґРµР» Р...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! You can't use `macro parameter character #' in vertical mode.
+l.92 #
+       4. РџРѕРєСЂРµС›РµРјРѕ Р»Р°РЅР°С† РїСЂРѕСЃР»РµС’РёРІР°СљРµРј РєРѕРЅРєС...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Argument of \language@active@arg" has an extra }.
+<inserted text> 
+                \par 
+l.93 ... chain.run({"text": "Hello, how are you?"}
+                                                  )
+I've run across a `}' that doesn't seem to match anything.
+For example, `\def\a#1{...}' and `\a}' would produce
+this error. If you simply proceed now, the `\par' that
+I've just inserted will cause me to report a runaway
+argument that might be the root of the problem. But if
+your `}' was spurious, just type `2' and it will go away.
+
+Runaway argument?
+! Paragraph ended before \language@active@arg" was complete.
+<to be read again> 
+                   \par 
+l.93 ... chain.run({"text": "Hello, how are you?"}
+                                                  )
+I suspect you've forgotten a `}', causing me to apply this
+control sequence to too much text. How can we recover?
+My plan is to forget the whole thing and hope for the best.
+
+
+Overfull \hbox (17.94948pt too wide) in paragraph at lines 92--93
+[]\T2A/gentium/m/n/12 4. По-кре-Је-мо ла-нац про-сле-ўи-ва-»ем кон-крет-не вред
+-но-сти за text result = chain.run("text":
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{lstlisting}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.95 \end{lstlisting}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (24.29454pt too wide) in paragraph at lines 97--98
+\T2A/gentium/m/n/12 prompt ша-блон, по-пу-»а-ва га уно-сом, ша-§е мо-де-лу упит
+ и вра-Ја од-го-вор. По-зив chain.run({...})
+ []
+
+
+LaTeX Warning: Citation `langchain_docs_2024' on page 26 undefined on input lin
+e 101.
+
+
+! LaTeX Error: Environment lstlisting undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.112 \begin{lstlisting}
+                        [language=Python, caption={Р РµРіРёСЃС‚СЂР°С†РёСР° ...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.114 from langchain_
+                     core.tools import Tool
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.115 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (12.37721pt too wide) in paragraph at lines 112--115
+[]\T2A/gentium/m/n/12 [language=Python, caption=Регистрациjа про-стог ала-та за
+ тре-нут-ни да-тум] from datetime
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.116 #
+        Р”РµС„РёРЅРёС€РµРјРѕ С„СѓРЅРєС†РёССѓ РєРѕСР° РІСЂР°С›Р° С‚СЂРµРЅСѓ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.117 def get_
+              current_date() -> str:
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \CYRV invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyrtshe invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyrg invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyrf invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 118.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 118.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.120 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no В in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no Ј in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no у in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no у in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no г in font cmr12!
+Missing character: There is no у in font cmr12!
+Missing character: There is no ф in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no у in font cmr12!
+
+Overfull \hbox (69.45667pt too wide) in paragraph at lines 116--120
+[]\T2A/gentium/m/n/12 Дефинишемо функ-ци-jу ко-jа вра-Ја тре-нут-ни да-тум у фо
+р-ма-ту ГГГГ-ММ-ДД def get$[]\OML/cmm/m/it/12 urrent[]ate\OT1/cmr/m/n/12 ()\OMS
+/cmsy/m/n/12 ^^@ \OML/cmm/m/it/12 >
+ []
+
+[26]
+! You can't use `macro parameter character #' in vertical mode.
+l.121 #
+        РљСЂРµРёСЂР°РјРѕ Tool РѕР±СРµРєР°С‚ Р·Р° СЂРµРіРёСЃС‚СЂaС†РёССѓ Р°...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.122 current_
+              date_tool = Tool(
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+LaTeX Warning: Command \CYRK invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyrk invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyrg invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyrb invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyrsh invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyrnje invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyrf invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyrm invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \cyru invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \CYRG invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \CYRM invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \CYRM invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \CYRD invalid in math mode on input line 125.
+
+
+LaTeX Warning: Command \CYRD invalid in math mode on input line 125.
+
+
+! LaTeX Error: \begin{document} ended by \end{lstlisting}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.127 \end{lstlisting}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.127 \end{lstlisting}
+                      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+Missing character: There is no К in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no к in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no г in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no у in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no б in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no ш in font cmr12!
+Missing character: There is no » in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no у in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no у in font cmr12!
+Missing character: There is no ф in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no м in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no у in font cmr12!
+Missing character: There is no Г in font cmr12!
+Missing character: There is no Г in font cmr12!
+Missing character: There is no Г in font cmr12!
+Missing character: There is no Г in font cmr12!
+Missing character: There is no М in font cmr12!
+Missing character: There is no М in font cmr12!
+Missing character: There is no Д in font cmr12!
+Missing character: There is no Д in font cmr12!
+
+Overfull \hbox (88.87361pt too wide) in paragraph at lines 121--128
+[]\T2A/gentium/m/n/12 Креирамо Tool обjе-кат за ре-ги-стрaци-jу ала-та current$
+[]\OML/cmm/m/it/12 ate[]ool \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 Tool\OT1/cmr/m/n
+/12 (\OML/cmm/m/it/12 name \OT1/cmr/m/n/12 = "\OML/cmm/m/it/12 get[]urrent[]ate
+\OT1/cmr/m/n/12 "\OML/cmm/m/it/12 ; func \OT1/cmr/m/n/12 =
+ []
+
+
+LaTeX Warning: Citation `langchain_docs_2024' on page 27 undefined on input lin
+e 131.
+
+
+LaTeX Warning: Citation `langchain_docs_2024' on page 27 undefined on input lin
+e 135.
+
+
+LaTeX Warning: Citation `langchain_docs_2024' on page 27 undefined on input lin
+e 140.
+
+[27]
+
+LaTeX Warning: Citation `langchain_docs_2024' on page 28 undefined on input lin
+e 143.
+
+
+! LaTeX Error: Environment lstlisting undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.147 \begin{lstlisting}
+                        [language=Python, caption={РљСЂРµРёСЂР°СљРµ Р°РіРµРЅ...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.149 from langchain.agents import initialize_
+                                              agent, AgentType
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.150 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (19.27719pt too wide) in paragraph at lines 147--150
+[]\T2A/gentium/m/n/12 [language=Python, caption=Креира»е аген-та са ме-мо-ри-jо
+м] from langchain.memory import
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.151 #
+        1. РљСЂРµРёСЂР°РјРѕ РѕР±СРµРєР°С‚ РјРµРјРѕСЂРёСРµ (РѕРІРґРµ Р±Р°С„...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.152 memory = ConversationBufferMemory(memory_
+                                               key="chat_history", return_me...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.153 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (169.96194pt too wide) in paragraph at lines 151--153
+[]\T2A/gentium/m/n/12 1. Кре-и-ра-мо обjе-кат ме-мо-ри-jе (ов-де ба-фер ко-jи ч
+у-ва це-лу исто-ри-jу) memory = ConversationBufferMemory(memory$[]\OML/cmm/m/it
+/12 ey \OT1/cmr/m/n/12 =
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.154 #
+        2. РРЅРёС†РёСР°Р»РёР·СѓСРµРјРѕ LLM РјРѕРґРµР» Рё Р»РёСЃС‚Сѓ Р°Р»Р...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.155 llm = ChatOpenAI(model_
+                             name="gpt-3.5-turbo", temperature=0)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! You can't use `macro parameter character #' in math mode.
+l.156 tools = [current_date_tool]  #
+                                     Р»РёСЃС‚Р° Р°Р»Р°С‚Р°, РїСЂРµС‚С…РѕРґРЅ...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyrl invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyrp invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyrr invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyrt invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyrh invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyro invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyrd invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyre invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyrf invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyri invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyrs invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyrn invalid in math mode on input line 156.
+
+
+LaTeX Warning: Command \cyra invalid in math mode on input line 156.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.157 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+Missing character: There is no л in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no л in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no п in font cmr12!
+Missing character: There is no р in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no т in font cmr12!
+Missing character: There is no х in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no о in font cmr12!
+Missing character: There is no д in font cmr12!
+Missing character: There is no е in font cmr12!
+Missing character: There is no ф in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no и in font cmr12!
+Missing character: There is no с in font cmr12!
+Missing character: There is no а in font cmr12!
+Missing character: There is no н in font cmr12!
+Missing character: There is no а in font cmr12!
+
+Overfull \hbox (95.61893pt too wide) in paragraph at lines 154--157
+[]\T2A/gentium/m/n/12 2. Ини-ци-jа-ли-зу-jе-мо LLM мо-дел и ли-сту ала-та (нпр.
+ из прет-ход-не сек-ци-jе) llm = ChatOpenAI(model$[]\OML/cmm/m/it/12 ame \OT1/c
+mr/m/n/12 =
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.158 #
+        3. РРЅРёС†РёСР°Р»РёР·СѓСРµРјРѕ Р°РіРµРЅС‚Р° СЃР° РјРµРјРѕСЂРёСРѕРј
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.159 agent_
+            chain = initialize_agent(
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.166 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (28.73534pt too wide) in paragraph at lines 158--166
+[]\T2A/gentium/m/n/12 3. Ини-ци-jа-ли-зу-jе-мо аген-та са ме-мо-ри-jом agent$[]
+\OML/cmm/m/it/12 hain \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 initialize[]gent\OT1/c
+mr/m/n/12 (\OML/cmm/m/it/12 tools \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 tools; llm
+ \OT1/cmr/m/n/12 =
+ []
+
+
+Overfull \hbox (41.13316pt too wide) in paragraph at lines 158--166
+\OML/cmm/m/it/12 llm; agent \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 AgentType:ZERO[]
+HOT[]EACT[]ESCRIPTION; memory \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 memory; verbos
+e \OT1/cmr/m/n/12 =
+ []
+
+! You can't use `macro parameter character #' in vertical mode.
+l.167 #
+        4. РЎР°РґР° Р°РіРµРЅС‚Сѓ РјРѕР¶РµРјРѕ РїРѕСЃС‚Р°РІРёС‚Рё СѓРїРёС‚, Р...
+Sorry, but I'm not programmed to handle this case;
+I'll just pretend that you didn't ask for it.
+If you're in the wrong mode, you might be able to
+return to the right one by typing `I}' or `I$' or `I\par'.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.168 response = agent_
+                       chain.run("Koji je danas datum?")
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: \begin{document} ended by \end{lstlisting}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.170 \end{lstlisting}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.170 \end{lstlisting}
+                      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Overfull \hbox (17.0865pt too wide) in paragraph at lines 167--171
+[]\T2A/gentium/m/n/12 4. Са-да аген-ту мо-же-мо по-ста-ви-ти упит, а ме-мо-ри-j
+а Је се ау-то-мат-ски ажу-ри-ра-ти response
+ []
+
+
+LaTeX Warning: Citation `langchain_docs_2024' on page 28 undefined on input lin
+e 176.
+
+
+LaTeX Warning: Citation `langchain_docs_2024' on page 28 undefined on input lin
+e 176.
+
+[28]
+
+LaTeX Warning: Citation `langchain_docs_2024' on page 29 undefined on input lin
+e 178.
+
+
+LaTeX Warning: Citation `langchain_docs_2024' on page 29 undefined on input lin
+e 178.
+
+
+Overfull \hbox (29.25647pt too wide) in paragraph at lines 178--179
+\T2A/gentium/m/n/12 функ-ци-jу create_react_agent за ек-спли-цит-но пра-в§е-»е 
+ReAct аген-та, као и кла-су AgentExecutor
+ []
+
+
+Overfull \hbox (131.54958pt too wide) in paragraph at lines 178--179
+\T2A/gentium/m/n/12 ко-jом се фи-нал-ни агент по-кре-Је [[]]. У прак-си, initia
+lize_agent(..., agent=AgentType.ZERO_SHOT_REACT_DESCRIPTION,
+ []
+
+
+Overfull \hbox (28.51686pt too wide) in paragraph at lines 180--181
+\T2A/gentium/m/n/12 при-мер. ВеЈ смо кре-и-ра-ли аген-та са име-ном agent_chain
+ ко-jи има jе-дан алат (get_current_date)
+ []
+
+
+! LaTeX Error: Environment lstlisting undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.182 \begin{lstlisting}
+                        [language=Python, caption={РџРѕРєСЂРµС‚Р°СљРµ ReAct ...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.184 response = agent_
+                       chain.run(query)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+! LaTeX Error: \begin{document} ended by \end{lstlisting}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.186 \end{lstlisting}
+                      
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Missing $ inserted.
+<inserted text> 
+                $
+l.186 \end{lstlisting}
+                      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+[29]
+
+LaTeX Warning: Citation `langchain_docs_2024' on page 30 undefined on input lin
+e 200.
+
+
+LaTeX Warning: Citation `wikipedia_form_10k_2025' on page 30 undefined on input
+ line 206.
+
+
+LaTeX Warning: Citation `pypi_edgar_2024' on page 30 undefined on input line 21
+2.
+
+
+LaTeX Warning: Citation `sec_parser_docs_2023' on page 30 undefined on input li
+ne 214.
+
+[30]
+
+LaTeX Warning: Citation `sec_api_tutorial_2023' on page 31 undefined on input l
+ine 215.
+
+
+LaTeX Warning: Citation `ibm_what_is_langchain_2023' on page 31 undefined on in
+put line 218.
+
+
+LaTeX Warning: Citation `patriwala_langchain_2025' on page 31 undefined on inpu
+t line 218.
+
+[31]
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
+242.
+ (/usr/local/texlive/2023/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+Package hyperref Info: bookmark level for unknown listing defaults to 0 on inpu
+t line 259.
+
+[32] [33]
+Overfull \hbox (112.7172pt too wide) in paragraph at lines 319--319
+[]        \T2A/cmtt/m/n/12 "Зависност од крета»а каматних стопа могла би негати
+вно утицати на профитабилност.",[] 
+ []
+
+
+Overfull \hbox (131.23767pt too wide) in paragraph at lines 319--319
+[]        \T2A/cmtt/m/n/12 "Регулаторне промене у индустриjи представ§аjу потен
+циjални ризик за будуЈе послова»е."[] 
+ []
+
+
+Overfull \hbox (155.93164pt too wide) in paragraph at lines 319--319
+[]        \T2A/cmtt/m/n/12 "Планирана су значаjна улага»а у прошире»е послова»а
+ на нова тржишта током наредне године."[] 
+ []
+
+
+Overfull \hbox (334.96292pt too wide) in paragraph at lines 334--334
+[]        \T2A/cmtt/m/n/12 "text": "Мена¶мент наводи да jе пораст прихода резул
+тат веЈе потраж»е на тржишту и успешног лансира»а новог производа.",[] 
+ []
+
+[34] [35]
+Overfull \hbox (0.30138pt too wide) in paragraph at lines 349--350
+\T2A/gentium/m/n/12 ко LLM до-но-си одлу-ке о ко-ри-шЈе-»у ала-та то-ком ре-ша-
+ва-»а за-дат-ка: (1) планско-извршни
+ []
+
+[36]) (./chapters/chapter5.tex [37]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 5.
+[38
+
+] [39]
+Overfull \hbox (112.7172pt too wide) in paragraph at lines 91--91
+[]        \T2A/cmtt/m/n/12 "Зависност од крета»а каматних стопа могла би негати
+вно утицати на профитабилност.",[] 
+ []
+
+
+Overfull \hbox (131.23767pt too wide) in paragraph at lines 91--91
+[]        \T2A/cmtt/m/n/12 "Регулаторне промене у индустриjи представ§аjу потен
+циjални ризик за будуЈе послова»е."[] 
+ []
+
+
+Overfull \hbox (155.93164pt too wide) in paragraph at lines 91--91
+[]        \T2A/cmtt/m/n/12 "Планирана су значаjна улага»а у прошире»е послова»а
+ на нова тржишта током наредне године."[] 
+ []
+
+[40]
+Overfull \hbox (334.96292pt too wide) in paragraph at lines 106--106
+[]        \T2A/cmtt/m/n/12 "text": "Мена¶мент наводи да jе пораст прихода резул
+тат веЈе потраж»е на тржишту и успешног лансира»а новог производа.",[] 
+ []
+
+[41]
+
+LaTeX Warning: Citation `evidently_ai_llm_judge_2025' on page 42 undefined on i
+nput line 125.
+
+
+LaTeX Warning: Citation `zheng_judging_llm_2023' on page 42 undefined on input 
+line 125.
+
+
+LaTeX Warning: Citation `evidently_ai_llm_judge_2025' on page 42 undefined on i
+nput line 125.
+
+
+Overfull \hbox (0.54443pt too wide) in paragraph at lines 125--126
+[]\T2A/gentium/m/n/12 Оце»ива»е ква-ли-те-та од-го-во-ра на ком-плек-сна фи-нан
+-сиj-ска пи-та-»а пред-ста-в§а иза-
+ []
+
+
+LaTeX Warning: Citation `evidently_ai_llm_judge_2025' on page 42 undefined on i
+nput line 129.
+
+
+LaTeX Warning: Citation `zheng_judging_llm_2023' on page 42 undefined on input 
+line 129.
+
+[42]
+
+LaTeX Warning: Citation `clearwater_analytics_2023' on page 43 undefined on inp
+ut line 138.
+
+
+LaTeX Warning: Citation `evidently_ai_llm_judge_2025' on page 43 undefined on i
+nput line 140.
+
+[43] [44]
+
+LaTeX Warning: Citation `zheng_judging_llm_2023' on page 45 undefined on input 
+line 151.
+
+
+LaTeX Warning: Citation `verga_replacing_judges_2024' on page 45 undefined on i
+nput line 151.
+
+[45]
+Overfull \hbox (2.02858pt too wide) in paragraph at lines 162--164
+[]\T2A/gentium/b/n/12 Евалуациjа по кри-те-ри-jу-ми-ма: \T2A/gentium/m/n/12 За 
+сва-ки кри-те-ри-jум, мо-дел при-ме-»у-jе кон-крет-
+ []
+
+[46]
+Overfull \hbox (69.50275pt too wide) in paragraph at lines 193--193
+[]    \T2A/cmtt/m/n/12 "explanation": "Наводи су углавном тачни, осим нетачног 
+податка о расту прихода."[] 
+ []
+
+
+Overfull \hbox (32.46179pt too wide) in paragraph at lines 193--193
+[]    \T2A/cmtt/m/n/12 "explanation": "Одговор покрива веЈину аспеката, али изо
+стаjе осврт на ..."[] 
+ []
+
+
+Overfull \hbox (112.7172pt too wide) in paragraph at lines 193--193
+[]  \T2A/cmtt/m/n/12 "overall_explanation": "Одговор jе солидан и углавном тача
+н, али недостаjу неке анализе.",[] 
+ []
+
+
+LaTeX Warning: Citation `zheng_judging_llm_2023' on page 47 undefined on input 
+line 199.
+
+
+LaTeX Warning: Citation `evidently_ai_llm_judge_2025' on page 47 undefined on i
+nput line 199.
+
+
+LaTeX Warning: Citation `evidently_ai_llm_judge_2025' on page 47 undefined on i
+nput line 199.
+
+
+LaTeX Warning: Citation `zheng_judging_llm_2023' on page 47 undefined on input 
+line 201.
+
+
+LaTeX Warning: Citation `verga_replacing_judges_2024' on page 47 undefined on i
+nput line 201.
+
+[47]
+
+LaTeX Warning: Citation `clearwater_analytics_2023' on page 48 undefined on inp
+ut line 203.
+
+
+LaTeX Warning: Citation `verga_replacing_judges_2024' on page 48 undefined on i
+nput line 203.
+
+
+LaTeX Warning: Citation `verga_replacing_judges_2024' on page 48 undefined on i
+nput line 205.
+
+) (./chapters/chapter6.tex [48]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 6.
+<images/osnovni/criteria_analysis_clarity_histogram.png, id=649, 715.2321pt x 4
+25.9112pt>
+File: images/osnovni/criteria_analysis_clarity_histogram.png Graphic file (type
+ png)
+<use images/osnovni/criteria_analysis_clarity_histogram.png>
+Package pdftex.def Info: images/osnovni/criteria_analysis_clarity_histogram.png
+  used on input line 12.
+(pdftex.def)             Requested size: 364.19667pt x 216.87389pt.
+<images/osnovni/criteria_analysis_completeness_histogram.png, id=650, 715.2321p
+t x 425.9112pt>
+File: images/osnovni/criteria_analysis_completeness_histogram.png Graphic file 
+(type png)
+<use images/osnovni/criteria_analysis_completeness_histogram.png>
+Package pdftex.def Info: images/osnovni/criteria_analysis_completeness_histogra
+m.png  used on input line 19.
+(pdftex.def)             Requested size: 364.19667pt x 216.87389pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/osnovni/criteria_analysis_factual_correctness_histogram.png, id=651, 71
+5.2321pt x 425.9112pt>
+File: images/osnovni/criteria_analysis_factual_correctness_histogram.png Graphi
+c file (type png)
+<use images/osnovni/criteria_analysis_factual_correctness_histogram.png>
+Package pdftex.def Info: images/osnovni/criteria_analysis_factual_correctness_h
+istogram.png  used on input line 26.
+(pdftex.def)             Requested size: 364.19667pt x 216.87389pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/osnovni/criteria_analysis_financial_reasoning_histogram.png, id=652, 71
+5.2321pt x 425.9112pt>
+File: images/osnovni/criteria_analysis_financial_reasoning_histogram.png Graphi
+c file (type png)
+<use images/osnovni/criteria_analysis_financial_reasoning_histogram.png>
+Package pdftex.def Info: images/osnovni/criteria_analysis_financial_reasoning_h
+istogram.png  used on input line 33.
+(pdftex.def)             Requested size: 364.19667pt x 216.87389pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/osnovni/criteria_analysis_numerical_accuracy_histogram.png, id=653, 715
+.2321pt x 425.9112pt>
+File: images/osnovni/criteria_analysis_numerical_accuracy_histogram.png Graphic
+ file (type png)
+<use images/osnovni/criteria_analysis_numerical_accuracy_histogram.png>
+Package pdftex.def Info: images/osnovni/criteria_analysis_numerical_accuracy_hi
+stogram.png  used on input line 40.
+(pdftex.def)             Requested size: 364.19667pt x 216.87389pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/FinAsk/criteria_analysis_clarity_histogram.png, id=654, 715.2321pt x 42
+5.9112pt>
+File: images/FinAsk/criteria_analysis_clarity_histogram.png Graphic file (type 
+png)
+<use images/FinAsk/criteria_analysis_clarity_histogram.png>
+Package pdftex.def Info: images/FinAsk/criteria_analysis_clarity_histogram.png 
+ used on input line 51.
+(pdftex.def)             Requested size: 364.19667pt x 216.87389pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/FinAsk/criteria_analysis_completeness_histogram.png, id=655, 715.2321pt
+ x 425.9112pt>
+File: images/FinAsk/criteria_analysis_completeness_histogram.png Graphic file (
+type png)
+<use images/FinAsk/criteria_analysis_completeness_histogram.png>
+Package pdftex.def Info: images/FinAsk/criteria_analysis_completeness_histogram
+.png  used on input line 58.
+(pdftex.def)             Requested size: 364.19667pt x 216.87389pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/FinAsk/criteria_analysis_factual_correctness_histogram.png, id=656, 715
+.2321pt x 425.9112pt>
+File: images/FinAsk/criteria_analysis_factual_correctness_histogram.png Graphic
+ file (type png)
+<use images/FinAsk/criteria_analysis_factual_correctness_histogram.png>
+Package pdftex.def Info: images/FinAsk/criteria_analysis_factual_correctness_hi
+stogram.png  used on input line 65.
+(pdftex.def)             Requested size: 364.19667pt x 216.87389pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/FinAsk/criteria_analysis_financial_reasoning_histogram.png, id=657, 715
+.2321pt x 425.9112pt>
+File: images/FinAsk/criteria_analysis_financial_reasoning_histogram.png Graphic
+ file (type png)
+<use images/FinAsk/criteria_analysis_financial_reasoning_histogram.png>
+Package pdftex.def Info: images/FinAsk/criteria_analysis_financial_reasoning_hi
+stogram.png  used on input line 72.
+(pdftex.def)             Requested size: 364.19667pt x 216.87389pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/FinAsk/criteria_analysis_numerical_accuracy_histogram.png, id=658, 715.
+2321pt x 425.9112pt>
+File: images/FinAsk/criteria_analysis_numerical_accuracy_histogram.png Graphic 
+file (type png)
+<use images/FinAsk/criteria_analysis_numerical_accuracy_histogram.png>
+Package pdftex.def Info: images/FinAsk/criteria_analysis_numerical_accuracy_his
+togram.png  used on input line 79.
+(pdftex.def)             Requested size: 364.19667pt x 216.87389pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[49
+
+ <./images/osnovni/criteria_analysis_clarity_histogram.png>] [50 <./images/osno
+vni/criteria_analysis_completeness_histogram.png>]) (./chapters/chapter7.tex [5
+1 <./images/osnovni/criteria_analysis_factual_correctness_histogram.png>]
+[52 <./images/osnovni/criteria_analysis_financial_reasoning_histogram.png>]
+[53 <./images/osnovni/criteria_analysis_numerical_accuracy_histogram.png> <./im
+ages/FinAsk/criteria_analysis_clarity_histogram.png>] [54 <./images/FinAsk/crit
+eria_analysis_completeness_histogram.png> <./images/FinAsk/criteria_analysis_fa
+ctual_correctness_histogram.png>] [55 <./images/FinAsk/criteria_analysis_financ
+ial_reasoning_histogram.png> <./images/FinAsk/criteria_analysis_numerical_accur
+acy_histogram.png>]
+{\cyrillictext \CYRG \cyrl \cyra \cyrv \cyra } 7.
+) (build/master_rad.bbl [56
+
+]
 Underfull \hbox (badness 5954) in paragraph at lines 36--40
 \T2A/gentium/m/it/12 Linguistics (Volume 1: Long Papers)\T2A/gentium/m/n/12 , p
 p. 1715--1725, Association for Computational
  []
 
-[17
+[57
 
-]) [18] (build/master_rad.aux)
+]) [58] (build/master_rad.aux)
 
 LaTeX Warning: There were undefined references.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `master_rad.out' has not changed.
-(rerunfilecheck)             Checksum: 243B5B4D57CFE854386C32930761BE89;6484.
+
+Package rerunfilecheck Warning: File `master_rad.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `master_rad.out':
+(rerunfilecheck)             Before: 896188587B34691550C772E85DDA99ED;12702
+(rerunfilecheck)             After:  9BE65071A7F86207A5978C5D1809190D;13676.
  ) 
 Here is how much of TeX's memory you used:
- 37631 strings out of 476025
- 854897 string characters out of 5790018
- 1863388 words of memory out of 5000000
- 57348 multiletter control sequences out of 15000+600000
- 532261 words of font info for 75 fonts, out of 8000000 for 9000
+ 38196 strings out of 476025
+ 867708 string characters out of 5790018
+ 1865388 words of memory out of 5000000
+ 57740 multiletter control sequences out of 15000+600000
+ 538591 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,6n,103p,2696b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 99i,17n,103p,2717b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/gentium-tug/GentiumPlu
 s-Bold.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/gentium-tug/G
 entiumPlus-BoldItalic.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/publi
@@ -1607,21 +3255,24 @@ c/gentium-tug/GentiumPlus-Italic.pfb></usr/local/texlive/2023/texmf-dist/fonts/
 type1/public/gentium-tug/GentiumPlus-Regular.pfb></usr/local/texlive/2023/texmf
 -dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-
 dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/texlive/2023/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2023/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2023/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/typ
-e1/public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2023/texmf-dist/fonts
-/type1/public/cm-super/sfss1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/t
-ype1/public/cm-super/sfss1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/typ
-e1/public/cm-super/sfss2074.pfb>
-Output written on build/master_rad.pdf (20 pages, 1397890 bytes).
+ist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/texlive/2023/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2023/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmmi6.pfb></usr/local/texlive/2023/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/local/texlive/2023/texmf-dist/fo
+nts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/font
+s/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2023/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/
+public/amsfonts/symbols/msbm10.pfb></usr/local/texlive/2023/texmf-dist/fonts/ty
+pe1/public/cm-super/sfss1200.pfb></usr/local/texlive/2023/texmf-dist/fonts/type
+1/public/cm-super/sfss1440.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/
+public/cm-super/sfss2074.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/pu
+blic/cm-super/sftt1200.pfb>
+Output written on build/master_rad.pdf (61 pages, 2918092 bytes).
 PDF statistics:
- 410 PDF objects out of 1000 (max. 8388607)
- 338 compressed objects within 4 object streams
- 76 named destinations out of 1000 (max. 500000)
- 227 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 867 PDF objects out of 1000 (max. 8388607)
+ 724 compressed objects within 8 object streams
+ 202 named destinations out of 1000 (max. 500000)
+ 469 words of extra memory for PDF output out of 10000 (max. 10000000)
 

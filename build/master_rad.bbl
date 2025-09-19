@@ -92,4 +92,10 @@ Q.~Yang {\em et~al.}, ``Dual retrieving and ranking medical {LLM} with
 \bibitem{kim_large_2024}
 M.~Kim, ``Large context windows versus {RAG},'' 2024.
 
+\bibitem{islam_financebench_2023}
+P.~Islam, A.~Kannappan, D.~Kiela, R.~Qian, N.~Scherrer, and B.~Vidgen,
+  ``{FinanceBench}: {A} {New} {Benchmark} for {Financial} {Question}
+  {Answering},'' 2023.
+\newblock arXiv:2311.11944 [cs].
+
 \end{thebibliography}

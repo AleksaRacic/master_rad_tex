@@ -7,36 +7,36 @@ Warning--empty journal in rocha_discovering_2021
 Warning--empty journal in paro_ai_strategic_2023
 Warning--empty journal in yang_evaluating_2025
 Warning--empty school in ioannou_structural_2017
-You've used 19 entries,
+You've used 20 entries,
             1876 wiz_defined-function locations,
-            570 strings with 7040 characters,
-and the built_in function-call counts, 4755 in all, are:
-= -- 402
-> -- 282
+            575 strings with 7273 characters,
+and the built_in function-call counts, 4957 in all, are:
+= -- 416
+> -- 302
 < -- 0
-+ -- 103
-- -- 84
-* -- 347
-:= -- 709
-add.period$ -- 22
-call.type$ -- 19
-change.case$ -- 18
++ -- 110
+- -- 90
+* -- 362
+:= -- 743
+add.period$ -- 24
+call.type$ -- 20
+change.case$ -- 19
 chr.to.int$ -- 0
-cite$ -- 23
-duplicate$ -- 218
-empty$ -- 443
-format.name$ -- 84
-if$ -- 1117
+cite$ -- 24
+duplicate$ -- 222
+empty$ -- 461
+format.name$ -- 90
+if$ -- 1163
 int.to.chr$ -- 0
-int.to.str$ -- 19
+int.to.str$ -- 20
 missing$ -- 12
-newline$ -- 63
-num.names$ -- 17
-pop$ -- 101
+newline$ -- 67
+num.names$ -- 18
+pop$ -- 108
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 146
+skip$ -- 149
 stack$ -- 0
 substring$ -- 226
 swap$ -- 74
@@ -45,7 +45,7 @@ text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 4
-while$ -- 36
-width$ -- 21
-write$ -- 164
+while$ -- 37
+width$ -- 22
+write$ -- 173
 (There were 4 warnings)
