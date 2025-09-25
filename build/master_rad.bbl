@@ -98,4 +98,64 @@ P.~Islam, A.~Kannappan, D.~Kiela, R.~Qian, N.~Scherrer, and B.~Vidgen,
   {Answering},'' 2023.
 \newblock arXiv:2311.11944 [cs].
 
+\bibitem{openai_function_calling_2023}
+{OpenAI}, ``Function calling and other api updates.'' OpenAI News, 2023.
+
+\bibitem{cheung_llama2_vs_gpt4_2023}
+D.~Cheung, ``Meta llama 2 vs. openai gpt-4: A comparative analysis.'' Medium,
+  2023.
+
+\bibitem{anthropic_best_practices_2025}
+{Anthropic}, ``Using anthropic: Best practices, parameters, and large context
+  windows.'' PromptHub Blog, 2025.
+
+\bibitem{kramer_deepseek_2025}
+N.~Kramer, ``Deepseek: Everything you need to know about this new llm in one
+  place.'' daily.dev, 2025.
+
+\bibitem{ibm_what_is_langchain_2023}
+{IBM}, ``What is langchain?.'' IBM Think Blog, 2023.
+
+\bibitem{patriwala_langchain_2025}
+A.~Patriwala, ``Langchain: A comprehensive framework for building llm
+  applications.'' Medium, 2025.
+
+\bibitem{langchain_docs_2024}
+{LangChain}, ``Langchain documentation.'' Online Documentation, 2024.
+
+\bibitem{yao_react_2022}
+S.~Yao, D.~Zhao, T.~Yu, N.~Du, I.~Shafran, K.~Narasimhan, and Y.~Cao, ``React:
+  Synergizing reasoning and acting in language models,'' in {\em Proceedings of
+  the International Conference on Learning Representations (ICLR)}, 2023.
+
+\bibitem{pypi_edgar_2024}
+{PyPI}, ``edgar library, v5.6.3.'' Python Package Index (PyPI), 2024.
+
+\bibitem{sec_parser_docs_2023}
+{sec-parser documentation}, ``sec-parser: Semantic parsing for sec filings,''
+  2023.
+
+\bibitem{sec_api_tutorial_2023}
+{sec-api.io}, ``Extract textual data from edgar 10-k filings using python.''
+  Tutorial, 2023.
+
+\bibitem{evidently_ai_llm_judge_2025}
+{Evidently AI}, ``Llm-as-a-judge: a complete guide to using llms for
+  evaluations.'' Evidently AI Blog, 2025.
+
+\bibitem{zheng_judging_llm_2023}
+L.~Zheng, W.-L. Chiang, Y.~Sheng, S.~Zhuang, Z.~Wu, Y.~Zhuang, Z.~Lin, Z.~Li,
+  D.~Li, E.~P. Xing, H.~Zhang, J.~E. Gonzalez, and I.~Stoica, ``Judging
+  llm-as-a-judge with mt-bench and chatbot arena,'' {\em arXiv preprint
+  arXiv:2306.05685}, 2023.
+
+\bibitem{clearwater_analytics_2023}
+{Clearwater Analytics}, ``A cutting-edge framework for evaluating llm output.''
+  Clearwater Analytics Blog, 2023.
+
+\bibitem{verga_replacing_judges_2024}
+P.~Verga, N.~Elaraby, S.~Joshi, S.~Min, D.~Chen, and X.~Ling, ``Replacing
+  judges with juries: Evaluating llm generations with a panel of diverse
+  models,'' {\em arXiv preprint arXiv:2404.18796}, 2024.
+
 \end{thebibliography}

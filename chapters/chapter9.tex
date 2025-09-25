@@ -1,0 +1,99 @@
+\chapter{Додатак}
+\label{appendix:llm_judge_prompt}
+
+\begin{center}
+    \begin{listing}[!ht]
+    \footnotesize
+    \begin{verbatim}
+
+You are an expert financial analyst and judge evaluating answers to financial questions based 
+on company 10-K filings.
+
+QUESTION:
+{question}
+
+CANDIDATE ANSWER (to evaluate):
+{candidate_answer}
+
+REFERENCE ANSWER (expert baseline):
+{reference_answer}
+
+{context_info}
+
+EVALUATION CRITERIA:
+1. **Factual Correctness (0-10)**: Are all financial facts, numbers, and claims accurate?
+   - Compare specific figures, percentages, and metrics
+   - Verify calculations and data points
+   - Check for consistency with reference answer
+
+2. **Completeness (0-10)**: Does the answer address all aspects of the question?
+   - Consider all parts of the original question
+   - Evaluate depth and breadth of coverage
+   - Compare against reference answer scope
+
+3. **Financial Reasoning (0-10)**: Is the reasoning process sound and financially literate?
+   - Assess analytical approach and methodology
+   - Evaluate logical flow and financial principles
+   - Consider appropriateness of conclusions
+
+4. **Numerical Accuracy (0-10)**: Are calculations and financial figures correct?
+   - Verify mathematical computations
+   - Check ratios, percentages, and metrics
+   - Assess precision and units
+
+5. **Clarity (0-10)**: Is the answer clear, well-structured, and easy to understand?
+   - Evaluate communication effectiveness
+   - Assess structure and organization
+   - Consider professional presentation
+
+    \end{verbatim}
+    \end{listing}
+    \end{center}
+
+
+   \begin{center}
+    \begin{listing}[!ht]
+    \footnotesize
+    \begin{verbatim}
+
+EVALUATION GUIDELINES:
+- Use the reference answer as the gold standard for comparison
+- Consider the expert correctness and completeness rationale provided
+- Be aware of the original methodology and system prompt used
+- Focus on substance over style but maintain professional standards
+- Allow for reasonable differences in expression while maintaining accuracy
+- Provide specific, actionable feedback with examples
+
+Provide your evaluation as a JSON object with the following structure:
+{{
+  "factual_correctness": {{
+    "score": <0-10>,
+    "explanation": "<detailed explanation with specific examples>"
+  }},
+  "completeness": {{
+    "score": <0-10>,
+    "explanation": "<detailed explanation comparing coverage>"
+  }},
+  "financial_reasoning": {{
+    "score": <0-10>,
+    "explanation": "<assessment of analytical approach>"
+  }},
+  "numerical_accuracy": {{
+    "score": <0-10>,
+    "explanation": "<verification of calculations and figures>"
+  }},
+  "clarity": {{
+    "score": <0-10>,
+    "explanation": "<assessment of communication effectiveness>"
+  }},
+  "overall_score": <0-10>,
+  "overall_explanation": "<comprehensive assessment highlighting key strengths and weaknesses>",
+  "confidence": <0-1>,
+  "key_differences": ["<list of key differences from reference>"]
+}}
+
+Be thorough, fair, and provide actionable feedback.
+    \end{verbatim}
+    \caption{Шаблон за рад агента судије}\label{lst:judge_template}
+    \end{listing}
+    \end{center}

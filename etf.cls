@@ -197,8 +197,8 @@
     {\LARGE \@title \par}%
     \vskip 2ex%
     {\large
-    \ifmaster Дипломски рад \par \fi
-    \ifdiplomski Дипломски рад \par \fi 
+    \ifmaster Мастер рад \par \fi
+    \ifdiplomski Мастер рад \par \fi 
     \ifprojekat \em projekat iz predmeta \@predmet \par \fi
     }
   \end{center}\par
@@ -286,8 +286,8 @@
     {\LARGE \@title \par}%
     \vskip 2ex%
     {\large
-    \ifmaster Дипломски рад \par \fi
-    \ifdiplomski Дипломски рад \par \fi 
+    \ifmaster Мастер рад \par \fi
+    \ifdiplomski Мастер рад \par \fi 
     \ifprojekat \em projekat iz predmeta \@predmet \par \fi
     }
   \end{center}\par
