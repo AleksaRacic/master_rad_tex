@@ -65,7 +65,7 @@
 као судију
 }
 \indeks{2023/3001}
-\mentor{проф др. Милош Цветановић}
+\mentor{проф. др Милош Цветановић}
 \usepackage{array}
 \newcolumntype{P}[1]{>{\centering\arraybackslash}p{#1}}
 \usepackage{titlesec}
@@ -77,14 +77,19 @@
 
 \begin{document}
 
+\hypersetup{pageanchor=false}
+
 \maketitle
+
+\pagenumbering{gobble}
 
 \tableofcontents
 
 \addtocontents{toc}{\protect\thispagestyle{empty}}
-\pagenumbering{arabic}
 \onehalfspacing
 \newpage
+\pagenumbering{arabic}
+\hypersetup{pageanchor=true}
 
 % Include chapter files
 \input{chapters/chapter1}
@@ -97,9 +102,12 @@
 \input{chapters/chapter8}
 \input{chapters/chapter9}
 
+\cleardoublepage
+\phantomsection
+\addcontentsline{toc}{chapter}{Литература}
+\chapter*{Литература}
 \bibliographystyle{ieeetr}
 \bibliography{master_rad}
-%\addcontentsline{toc}{chapter}{Литература}
 
 % Alternativni način
 %\begin{thebibliography}{10}

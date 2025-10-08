@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
+  <!-- Input embedding + positional encoding -->
+  <g id="input-section" transform="translate(50, 50)">
+    <rect x="0" y="0" width="120" height="40" fill="#f2f2f2" stroke="#333"/>
+    <text x="60" y="25" text-anchor="middle" font-size="12">Улазна векторска репрезентација</text>
+    <circle cx="60" cy="80" r="10" fill="#fff" stroke="#333"/>
+    <text x="60" y="95" text-anchor="middle" font-size="12">PE</text>
+    <line x1="60" y1="40" x2="60" y2="70" stroke="#333" marker-end="url(#arrow)"/>
+  </g>
+
+  <!-- Encoder stack -->
+  <g id="encoder" transform="translate(200, 20)">
+    <rect x="0" y="0" width="120" height="300" fill="none" stroke="#333"/>
+    <text x="60" y="-5" text-anchor="middle" font-size="14">Енкодер (×N)</text>
+    <!-- One layer block -->
+    <g transform="translate(0, 20)">
+      <rect x="0" y="0" width="120" height="60" fill="#e0f7fa" stroke="#333"/>
+      <text x="60" y="25" text-anchor="middle" font-size="12">Вишеструка пажња</text>
+    </g>
+    <g transform="translate(0, 100)">
+      <rect x="0" y="0" width="120" height="60" fill="#ffe0b2" stroke="#333"/>
+      <text x="60" y="25" text-anchor="middle" font-size="12">Потпуно повезана мрежа</text>
+    </g>
+  </g>
+
+  <!-- Decoder stack -->
+  <g id="decoder" transform="translate(400, 20)">
+    <rect x="0" y="0" width="140" height="300" fill="none" stroke="#333"/>
+    <text x="70" y="-5" text-anchor="middle" font-size="14">Декодер (×N)</text>
+    <g transform="translate(0, 20)">
+      <rect x="0" y="0" width="140" height="60" fill="#e0f7fa" stroke="#333"/>
+      <text x="70" y="25" text-anchor="middle" font-size="12">Маскирана вишеструка пажња</text>
+    </g>
+    <g transform="translate(0, 100)">
+      <rect x="0" y="0" width="140" height="60" fill="#e0f7fa" stroke="#333"/>
+      <text x="70" y="25" text-anchor="middle" font-size="12">Вишеструка пажња</text>
+    </g>
+    <g transform="translate(0, 180)">
+      <rect x="0" y="0" width="140" height="60" fill="#ffe0b2" stroke="#333"/>
+      <text x="70" y="25" text-anchor="middle" font-size="12">Потпуно повезана мрежа</text>
+    </g>
+  </g>
+
+  <!-- Output section -->
+  <g id="output" transform="translate(600, 150)">
+    <rect x="0" y="0" width="100" height="40" fill="#f2f2f2" stroke="#333"/>
+    <text x="50" y="25" text-anchor="middle" font-size="12">Софтмакс</text>
+  </g>
+
+  <!-- Arrows definitions -->
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5"
+            orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,10 L10,5 Z" fill="#333"/>
+    </marker>
+  </defs>
+
+  <!-- Arrows between sections -->
+  <line x1="170" y1="90" x2="200" y2="70" stroke="#333" marker-end="url(#arrow)"/>
+  <line x1="320" y1="200" x2="400" y2="200" stroke="#333" marker-end="url(#arrow)"/>
+  <line x1="540" y1="200" x2="600" y2="170" stroke="#333" marker-end="url(#arrow)"/>
+</svg>
